@@ -1,0 +1,11 @@
+package com.green.dao;
+
+public class MovieDao {
+	
+	private MovieDao () {}
+	private static MovieDao dao = new MovieDao();
+	public static MovieDao getInstance() {
+		return dao;
+	}
+
+}

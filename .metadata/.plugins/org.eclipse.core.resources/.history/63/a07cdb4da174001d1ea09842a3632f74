@@ -1,0 +1,14 @@
+package com.green.dao;
+
+public class ProductDao {
+	
+	private ProductDao () {}
+	
+	private static ProductDao dao = new ProductDao();
+	public static ProductDao getInstance() {
+		return dao;
+	}
+	//----------------------------------------------------------
+	
+
+}

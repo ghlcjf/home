@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page import="com.green.dao.MemberDao" %>
+<%@ page import="java.sql.Connection" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h3>연결 객체 테스트 페이지</h3>
+<%
+	// 인스턴스 불러오기
+	MemberDao dao = MemberDao.getInstance();
+	
+	// 연결 객체 불러오기
+	Connection conn = dao.getConnection();
+
+	if(conn!=null){
+		out.println("<p>연결 성공</p>");
+	}else{
+		out.println("<p>연결 실패</p>");
+	}
+
+%>
+
+</body>
+</html>

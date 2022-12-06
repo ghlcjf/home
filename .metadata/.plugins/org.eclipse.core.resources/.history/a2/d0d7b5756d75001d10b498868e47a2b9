@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link type="text/css" href="style/product.css" rel="stylesheet">
+</head>
+<body>
+<div id="wrap">
+	<table class="list">
+	
+	</table>
+</div>
+
+</body>
+</html>
