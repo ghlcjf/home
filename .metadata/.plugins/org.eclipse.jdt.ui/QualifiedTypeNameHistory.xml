@@ -11,4 +11,5 @@
 <fullyQualifiedTypeName name="com.green.dto.MovieDto"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="com.green.dao.MovieDao"/>
+<fullyQualifiedTypeName name="com.green.dao.ScoreDao"/>
 </qualifiedTypeNameHistroy>

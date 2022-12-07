@@ -17,6 +17,7 @@
 	<section name="ZipFileImportWizard">
 		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
 		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\ghlcj\Documents\카카오톡 받은 파일\scoreAdmin.zip"/>
 			<item value="C:\Users\ghlcj\Documents\카카오톡 받은 파일\movieAdmin.zip"/>
 			<item value="C:\Users\ghlcj\Documents\카카오톡 받은 파일\shoppingAdmin.zip"/>
 		</list>

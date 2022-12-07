@@ -154,7 +154,7 @@
 
       
       <Context docBase="C:\UploadImage" path="/upload"/> 
-      <Context docBase="movieHome" path="/movieHome" reloadable="true" source="org.eclipse.jst.jee.server:movieHome"/></Host>
+      <Context docBase="scoreAdmin" path="/scoreAdmin" reloadable="true" source="org.eclipse.jst.jee.server:scoreAdmin"/></Host>
     </Engine>
   </Service>
 </Server>

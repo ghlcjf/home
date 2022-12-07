@@ -7,3 +7,18 @@
 
 12월 06, 2022 22:09:44.239 NEW SESSION
 12월 06, 2022 22:09:44.239 [21488:13168:1206/220944.238:ERROR:device_event_log_impl.cc(215)] [22:09:44.238] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+12월 07, 2022 22:37:39.602 NEW SESSION
+12월 07, 2022 22:37:39.602 [20120:13564:1207/223739.600:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+12월 07, 2022 22:39:29.941 [9864:14816:1207/223929.940:ERROR:device_event_log_impl.cc(215)] [22:39:29.941] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 07, 2022 22:43:44.43 [13288:14484:1207/224344.043:ERROR:device_event_log_impl.cc(215)] [22:43:44.042] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 07, 2022 22:44:23.610 [1536:4388:1207/224423.609:ERROR:device_event_log_impl.cc(215)] [22:44:23.610] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 07, 2022 22:44:51.339 [17800:11620:1207/224451.339:ERROR:device_event_log_impl.cc(215)] [22:44:51.339] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 07, 2022 23:12:35.896 [17800:5400:1207/231235.896:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 07, 2022 23:12:35.897 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 07, 2022 23:12:35.898 ERROR: Failed parsing Certificate
+12월 07, 2022 23:12:35.898 
+12월 07, 2022 23:12:38.696 [17800:16032:1207/231238.696:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 07, 2022 23:12:38.697 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 07, 2022 23:12:38.697 ERROR: Failed parsing Certificate
+12월 07, 2022 23:12:38.697 
